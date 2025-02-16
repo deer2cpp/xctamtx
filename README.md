@@ -1,2 +1,1 @@
-# xctamtx
-Actual working version of ctaMTX / UctaMTX for the first time in history ?!?!?!
+read and convert mediocre ab mtx format to jpg / jpeg
